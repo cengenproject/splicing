@@ -1,0 +1,9 @@
+neuron,modality,neurotransmitter
+ASG,Sensory,glu
+AVE,Interneuron,ACh
+AVG,Interneuron,ACh
+AWA,Sensory,unknown
+AWB,Sensory,ACh
+PVD,Sensory,glu
+VD,Motor,GABA
+DD,Motor,GABA
